@@ -16,3 +16,7 @@ All backend Taco Bell store #'s that will be used to obtain menu prices.
 **test.py**
 
 Seperate notebook to test out new ideas and function definitions.
+
+
+**params.txt** 
+Info I gathered to create the grid scraping method. 
