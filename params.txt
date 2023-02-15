@@ -1,0 +1,7 @@
+One-degree of longitude equals 288,200 feet (54.6 miles)
+One degree of latitude equals approximately 364,000 feet (69 miles)
+Western Edge: -125 with variable latitude
+Eastern Edge: -66 with variable latitude
+Northern Edge: 49 with variable longitude
+Southern Edge: 25 with variable longitude
+The tool has an approximate 10 mile radius of retreival
