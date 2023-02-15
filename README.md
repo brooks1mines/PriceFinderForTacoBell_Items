@@ -19,4 +19,5 @@ Seperate notebook to test out new ideas and function definitions.
 
 
 **params.txt** 
+
 Info I gathered to create the grid scraping method. 
